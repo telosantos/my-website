@@ -1,6 +1,3 @@
 # my-website
 just a test
-
-editing readme file
-
-edits
+more updates made on master on github before rebase
